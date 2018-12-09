@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiForFAQ", "WebApiForFAQ\WebApiForFAQ.csproj", "{395B20DA-8789-4885-8CE7-37943578C335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiForFAQ.IntegrationTests", "WebApiForFAQ.IntegrationTests\WebApiForFAQ.IntegrationTests.csproj", "{E203723C-D69F-470B-BCB9-850AEFA91948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395B20DA-8789-4885-8CE7-37943578C335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395B20DA-8789-4885-8CE7-37943578C335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395B20DA-8789-4885-8CE7-37943578C335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395B20DA-8789-4885-8CE7-37943578C335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E203723C-D69F-470B-BCB9-850AEFA91948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E203723C-D69F-470B-BCB9-850AEFA91948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E203723C-D69F-470B-BCB9-850AEFA91948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E203723C-D69F-470B-BCB9-850AEFA91948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A879C47B-965F-4ED2-A283-C5EB981FC839}
+	EndGlobalSection
+EndGlobal
